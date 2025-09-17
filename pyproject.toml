@@ -23,5 +23,5 @@ classifiers = [
 dynamic = ["dependencies", "optional-dependencies"]
 
 [project.urls]
-"Homepage" = "https://github.com/VicidominiLab/varreg"
-"Documentation" = "https://github.com/VicidominiLab/varreg/tree/main/examples"
+"Homepage" = "https://github.com/VicidominiLab/birfi"
+"Documentation" = "https://github.com/VicidominiLab/birfi/tree/main/examples"
