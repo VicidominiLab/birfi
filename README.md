@@ -15,18 +15,18 @@ It works with single-channel and multi-channel (e.g. ISM) datasets.
 
 ## Installation
 
-You can install `birfi` via [pip] directly from GitHub:
+You can install the stable version of `birfi` via [pip] from [PyPI]:
 
     pip install git+https://github.com/VicidominiLab/birfi
 
-Currently, we reccomend cloning the repository and installing the package in developer mode.
-Go to the repository folder and run:
+or the latest version directly via [pip] from GitHub:
 
-    pip install -e .
+    pip install git+https://github.com/VicidominiLab/birfi
 
 It requires the following Python packages
 
     numpy
+    scipy
     matplotlib
     torch
 
