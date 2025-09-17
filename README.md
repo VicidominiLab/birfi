@@ -17,7 +17,7 @@ It works with single-channel and multi-channel (e.g. ISM) datasets.
 
 You can install the stable version from [PyPI]:
 
-    pip install git+https://github.com/VicidominiLab/birfi
+    pip install birfi
 
 or the latest version directly from GitHub:
 
